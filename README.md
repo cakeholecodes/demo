@@ -1,8 +1,8 @@
-#Portfolio
+# Portfolio
 
-##My skills
+## My skills
 
-##My Projects
+## My Projects
 
 ![histogram](images/histogram.png)
 
