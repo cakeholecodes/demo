@@ -9,8 +9,11 @@
   <li> Languages include Python and SQL </li>
 </ul>
 
+![confused maths lady](images/confused_maths_lady.jpeg)
+
 ## My Projects
 
 ![histogram](images/histogram.png)
 
 [Link to GDPR](https://gdpr-info.eu/)
+
