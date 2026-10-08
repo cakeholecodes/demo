@@ -9,7 +9,7 @@
   <li> Languages include Python and SQL </li>
 </ul>
 
-![confused maths lady](images/confused_maths_lady.jpeg)
+![confused maths lady](images/confused_maths_lady.jpg)
 
 ## My Projects
 
